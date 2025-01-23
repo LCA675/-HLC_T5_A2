@@ -3,7 +3,7 @@ def exponente():
     cuadrado=[]
     for i in range(1, numero+1):
         cuadrado.append(i**2)
-
+        
     print(cuadrado)  
 
 exponente()
